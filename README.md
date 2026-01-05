@@ -1,7 +1,10 @@
 # De-Motivator: OSRS Action Counter Plugin
 
+
 A custom RuneLite plugin that tracks skilling actions via Game Chat analysis and overlays precise progress toward level goals.
 
+
+![Plugin Screenshot]((https://github.com/Snowlad/runelite-de-motivator/blob/master/demoti.jpg))
 
 ## 🎯 Features
 * **Smart Action Detection:** Unlike standard trackers that guess based on XP drops, this plugin uses **Regex Pattern Matching** on game chat to identify exactly what you are doing (e.g., distinguishing "Oak Logs" from "Willow Logs" instantly).
